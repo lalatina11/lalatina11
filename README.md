@@ -50,6 +50,7 @@
 - 🐛 Got a bug that's been living rent-free in your codebase? Let me help evict it
 - 🤝 I work well in teams and enjoy collaborating on cool ideas
 - 🌱 Always picking up something new (the ecosystem never sleeps, and neither do I 😅)
+- 🇬🇧 English communication — B1 Intermediate (and still improving!)
 - 📬 **Available for freelance & open to new opportunities!**
 
 ---
